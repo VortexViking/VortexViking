@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @VortexViking
-- 👀 I’m interested in ... .bat and pythom
-- 🌱 I’m currently learning pythin
+- 👀 I’m interested in ... .bat and python
+- 🌱 I’m currently learning python
 - ⚡ Fun fact: I love RGB
 - 🎥 Iam a youtuber (youtube.com/@IamVortexViking)
-
+- 🍎 i do not like macOS 
 - 
 
 <!---
