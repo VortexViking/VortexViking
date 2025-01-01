@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VortexViking
-- 👀 I’m interested in ... .bat and python and shellscript and html and css and rust
-- 🌱 I’m currently learning shellscript html and css
+- 👀 I’m interested in ... .bat and python and shellscript and html and css and rust and java
+- 🌱 I’m currently learning shellscript html and css and java
 - ⚡ Fun fact: I love RGB
 - 🎥 Iam a youtuber (youtube.com/@IamVortexViking)
 - 🍎 i do not like macOS 
