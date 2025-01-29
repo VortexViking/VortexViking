@@ -25,9 +25,10 @@
 ```
 [![purple-logo.jpg](https://i.postimg.cc/BvSpPRtp/purple-logo.jpg)](https://postimg.cc/fVPm62cS)
 
-👋 Hi, I’m @VortexViking
-👀 I’m interested in ... .bat and python and shellscript and html and css and rust and java
-🌱 I’m currently learning shellscript html and css and java ⚡ Fun fact: I love RGB
-🍎 i do not like macOS
+- 👋 Hi, I’m @VortexViking
+- 👀 I’m interested in ... .bat and python and shellscript and html and css and rust and java
+- 🌱 I’m currently learning shellscript html and css and java ⚡ Fun fact: I love RGB
+- 🍎 i do not like macOS
+- 🐉 I am currently using kali linux
 
 
