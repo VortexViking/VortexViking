@@ -2,6 +2,7 @@
 I am make bash scripts to automate my life. I enjoy coding and linux. I enjoy coding in these languages:<br><br>1. Python<br>2. Bash<br>3. C++
 
 I also am a big [linux](https://github.com/torvalds/linux) enthusiast. And a [firefox](https://github.com/mozilla) lover. I am currently using [POP!_OS](https://github.com/pop-os). 
+
 Projects:
 * [Scripts](https://github.com/vortexviking/scripts)
 * [Blue Viper](https://github.com/VortexViking/Blue-Viper)
