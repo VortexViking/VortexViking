@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am make bash scripts to automate my life. I enjoy coding and linux. I enjoy coding in these languages:<br><br>1. Python<br>2. Bash<br>3. C++
 
+I also am a big [linux](https://github.com/torvalds/linux) enthusiast. And a [firefox](https://github.com/mozilla) lover. 
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@IamVortexViking) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techcityshow@gmail.com) 
